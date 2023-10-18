@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header {
+  display: flex;
+  height: 12rem;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(3deg, #03F9FF 0%, #833FFB 60%, #F600E5 100%);
+}
+
+.logo_undb {
+  height: 8rem;
+}
